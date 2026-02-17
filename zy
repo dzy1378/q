@@ -1,0 +1,4 @@
+ local msg = Instance.new("Message", workspace)
+        msg.Text = "笨能nb"
+        wait(10)
+        msg:Destroy()
